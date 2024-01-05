@@ -51,17 +51,17 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Começando</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Prerequisitos</a></li>
+        <li><a href="#installation">Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributing">Contribuindo</a></li>
+    <li><a href="#license">Licença</a></li>
+    <li><a href="#feito-por">Feito por</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -91,8 +91,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -180,12 +178,20 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
+<!-- Autores -->
+## Feito por
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+<table>
+<tr>
+<td align="center"><a href="https://github.com/BiaAkemi"><img style="border-radius: 50%;" src="https://github.com/BiaAkemi.png" width="100px;" alt="BiaAkemi"/><br /><sub><b>Bianca Akemi</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/littlledan"><img style="border-radius: 50%;" src="https://github.com/littlledan.png" width="100px;" alt="littledan"/><br /><sub><b>Daniel Lima</b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/gustavoalcantaradev"><img style="border-radius: 50%;" src="https://github.com/gustavoalcantaradev.png" width="100px;" alt="gustavoalcantaradev"/><br /><sub><b>Gustavo Alcantra</b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/IsabellaCorreiadosantos"><img style="border-radius: 50%;" src="https://github.com/IsabellaCorreiadosantos.png" width="100px;" alt="IsabellaCorreiadosantos"/><br /><sub><b>Isabella Correia</b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/Jeffersonfelizx"><img style="border-radius: 50%;" src="https://github.com/Jeffersonfelizx.png" width="100px;" alt="Jeffersonfelizx"/><br /><sub><b>Jefferson Felix</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/Raafa22"><img style="border-radius: 50%;" src="https://github.com/Raafa22.png" width="100px;" alt="Raafa22"/><br /><sub><b>Rafael Cabral</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/WesleyBert"><img style="border-radius: 50%;" src="https://github.com/WesleyBert.png" width="100px;" alt="WesleyBert"/><br /><sub><b>Wesley Berto</b></sub></a><br/></td>
+</table>
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
