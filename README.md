@@ -50,7 +50,7 @@
 
 [![Aquarelando Screen Shot][product-screenshot]](https://example.com)
 
-Bla bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla 
+Aquarelando é um projeto de e-commerce criado para combater o problema social, baseado na ODS 4, buscando educação de qualidade.
 
 
 ### Feito em
