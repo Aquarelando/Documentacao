@@ -52,15 +52,10 @@
 
 Bla bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla 
 
-<p align="right">(<a href="#readme-top">volte ao topo</a>)</p>
-
-
 
 ### Feito em
 
 [![Java][Java]][Java-url]
-
-<p align="right">(<a href="#readme-top">volte ao topo</a>)</p>
 
 
 <!-- ROADMAP -->
@@ -85,15 +80,10 @@ Bla bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla  bla bla bla
 - [ ] <b>13:</b> Deploy 
 
 
-<p align="right">(<a href="#readme-top">volte ao top</a>)</p>
-
-
 <!-- LICENSE -->
 ## Licença
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">volte ao topo</a>)</p>
 
 
 <!-- Autores -->
@@ -109,9 +99,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <td align="center"><a href="https://github.com/Raafa22"><img style="border-radius: 50%;" src="https://github.com/Raafa22.png" width="100px;" alt="Raafa22"/><br /><sub><b>Rafael Cabral</b></sub></a><br/></td>
 <td align="center"><a href="https://github.com/WesleyBert"><img style="border-radius: 50%;" src="https://github.com/WesleyBert.png" width="100px;" alt="WesleyBert"/><br /><sub><b>Wesley Berto</b></sub></a><br/></td>
 </table>
-
-
-<p align="right">(<a href="#readme-top">volte ao topo</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
